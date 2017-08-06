@@ -4,4 +4,4 @@ de la escuela de Ing. Electrica de la Universidad de Costa Rica (UCR).
 La mayoria de los ejercicios fueron chequeados con Mathematica 11.
 
 
-Los codigos contienen mas informacion de la cuenta, pero cuando se abren con Mathematica, ya sale solo el codigo respectivo de Mathematica.
+Los codigos contienen mas informacion de la cuenta cuando se leen aqui, pero cuando se abren con Mathematica, ya sale solo el codigo respectivo de Mathematica.
